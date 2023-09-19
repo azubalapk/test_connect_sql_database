@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   dart_frog: ^1.0.0
+  mysql1: ^0.20.0
   users_data_source:
     path: packages/users_data_source
 

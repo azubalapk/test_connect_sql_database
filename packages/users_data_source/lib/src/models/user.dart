@@ -1,7 +1,6 @@
 
-import 'package:json_annotation/json_annotation.dart';
+// ignore_for_file: prefer_constructors_over_static_methods
 
-@JsonSerializable()
 ///
 class User {
   ///
